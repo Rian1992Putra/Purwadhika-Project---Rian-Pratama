@@ -7,9 +7,9 @@ Sebuah perusahaan yang bergerak di bidang retail ingin memanfaatkan database ter
 
 ## Rumusan Masalah
 Adapun pertanyaan yang perlu dijawab melalui analisa data diantaranya adalah :
-Bagaimana karakteristik dari pelanggan yang telah berbelanja secara umum.
-Bagaimana karakteristik pelanggan terkait program promosi yang terakhir dibuat.
-Bagaimana dengan rekomendasi hasil analisa data yang dapat membantu dalam pengambilan keputusan.
+- Bagaimana karakteristik dari pelanggan yang telah berbelanja secara umum.
+- Bagaimana karakteristik pelanggan terkait program promosi yang terakhir dibuat.
+- Bagaimana dengan rekomendasi hasil analisa data yang dapat membantu dalam pengambilan keputusan.
 
 Tableau Visualization :
 https://public.tableau.com/app/profile/rian.putra/viz/Rian_Pratama_Putra_Capstone2/Dashboard1?publish=yes
